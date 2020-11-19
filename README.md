@@ -1,7 +1,9 @@
 # dailydrinks
 
 ######Run
-Install Dependencies - 
+
+**Install Dependencies -**
+ 
 ```
 npm install or yarn install
 npm start or yarn start (For project run)
